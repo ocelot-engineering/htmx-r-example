@@ -1,0 +1,26 @@
+{
+    "editor.formatOnSave": true,
+    "editor.rulers": [120],
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    "diffEditor.ignoreTrimWhitespace": true,
+
+    "prettier.printWidth": 120,
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 4,
+
+    "path-autocomplete.pathMappings": {
+        "/": "/",
+        "./": "${folder}"
+    },
+
+    "[r][rmd]": {
+        "editor.defaultFormatter": "REditorSupport.r",
+        "editor.wordSeparators": "`~!@#%$^&*()-=+[{]}\\|;:'\",<>/?"
+    },
+
+    "files.associations": {
+        "*.Rmd": "rmd"
+    }
+}

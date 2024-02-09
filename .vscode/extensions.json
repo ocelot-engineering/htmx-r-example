@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "github.vscode-github-actions",
+        "github.copilot-chat",
+        "postman.postman-for-vscode",
+        "redhat.vscode-yaml",
+        "ms-azuretools.vscode-docker",
+        "ionutvmi.path-autocomplete"
+    ]
+}
